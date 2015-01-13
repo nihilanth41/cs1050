@@ -1,0 +1,17 @@
+
+Beginning Submission                   
+Preparing: lab10.c for submission
+In-Progress: Submitting Assignment
+file size sent: 4078 (bytes) and file size stored on server: 4078 (bytes)
+file transfer successful from client to submission server
+Submission Complete
+
+
+Submission Information
+
+Name of file: lab10.c
+Size in (bytes): 4078
+Class/Section: CS1050_01H
+Lab Key: LAB10
+Submission Receipt: 63e02049937504f4ba0bde232bc3e018
+

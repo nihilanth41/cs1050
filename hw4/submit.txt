@@ -1,0 +1,17 @@
+
+Beginning Submission                   
+Preparing: hw4.c for submission
+In-Progress: Submitting Assignment
+file size sent: 5985 (bytes) and file size stored on server: 5985 (bytes)
+file transfer successful from client to submission server
+Submission Complete
+
+
+Submission Information
+
+Name of file: hw4.c
+Size in (bytes): 5985
+Class/Section: CS1050_HW-H
+Lab Key: HW-4
+Submission Receipt: 8b07617947bf3be780d415723a794a45
+
